@@ -1,3 +1,7 @@
+![Screenshot_2022-11-20_16-28-44](https://user-images.githubusercontent.com/89656885/202910594-acaf5b98-66da-4b7a-ab6c-3677b76891c4.png)
+![Screenshot_2022-11-20_16-31-21](https://user-images.githubusercontent.com/89656885/202910614-8d981859-9a38-4d95-a328-4dfceb312a48.png)
+
+
 https://strandedalien.github.io/Kicadviewer/
 
 Takes up to a minute to load the first time during you only see a black window. Please be patient.
