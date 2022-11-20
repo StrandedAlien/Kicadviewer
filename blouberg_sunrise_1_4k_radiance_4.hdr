@@ -1,0 +1,7 @@
+#?RADIANCE
+# Output from cmft.
+FORMAT=32-bit_rle_rgbe
+EXPOSURE=1
+
+-Y 16 +X 32
+Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€Um±€aw»€ax»€awº€`v¹€_u·€^t¶€]s¶€\rµ€Zq³€Xo±€Vm¯€Sk­€Ri­€Qi­€Qi®€Pi®€Pi¯€Oi¯€Oh®€Nh®€Nh®€Oi¯€Qj°€Rk±€Sl²€Um³€Vn³€Xp´€[r¶€]t¸€_vº€aw»€uŠÐ€wŒÑ€wŒÑ€wŒÐ€u‰Í€q…È€jÂ€g}¾€dy»€_u·€\sµ€Zq´€Wo´€Tm³€Rk³€Rlµ€Rl¶€Ql¶€Qm·€Qm·€Ql·€Pkµ€Okµ€Ql¶€Sm¶€Uo·€[t»€ayÀ€f~Ä€l‚È€q‡Ì€uŠÐ€›¯÷€ ³û€£µü€¡²ø€šªî€‘¡ã€‡™Ù€}Ï€vŠÉ€nƒÃ€iÀ€cz½€_w½€\v¾€[uÀ€[vÂ€\xÄ€]yÆ€^yÆ€\xÅ€ZwÄ€XuÂ€UsÀ€Vs¿€Vs¾€\xÂ€c~Ç€n‡Ï€y‘Ø€†œä€‘¦í€›¯÷€¯©¶¾³½»°¾z}os’di†ÅÊ÷€ª³ß€š¥Ó€Ž›Ì€zÉ€r‡Ç€m„Ç€jƒÉ€yÑ€”Õ€…šÚ€ˆÞ€vØ€tŽØ€oŒ×€jˆÔ€w–ß€w–Ü€z—Û€‚Þ€z•Ú€‹£ç€£¸ú€~ƒ›—˜ª¯©¶‘}h‚¨‹m‚±Žn‚˜~j‚¹¨§ˆŠÏËâ€¬¬Å€›Ÿº€–¶€‰’µ€…¹€‚‘¿€…”Â€‹˜Å€’žÊ€›§Ó€¡®Û€¤´ä€£·ì€š¶ó€”±ï€’°ê€”°ç€™³ä€©¿é€ÁÒõ€pv„˜—›µ¯«èÔÀ‘}h‚°c‚Ù§j‚÷¶l‚Û£f‚Ö²’‚unµ«¯€”™€Šˆ•€ƒ„”€‚–€~ƒ›€‚‰£€†Œ¦€‹©€“—¯€¡¸€¦ªÃ€¬³Î€°¼Û€ª¾æ€¢¹á€Ÿ¶Û€¡¶×€¨ºÔ€»ÇØ€Úáå€ƒ‚|¥œ‹Åµš…tZ‚°c‚Ÿ}M‚Ì—T‚î¨U‚Í‘M‚®ŠcÇ¬”€‡}x€çÛÜâÚàßÛçÞÝîÞàösu€xx„€~}ˆ€…ƒŒ€ŽŒ“€—”›€›£€Ÿ ª€ž¦µ€š¥¶€˜¥´€™¥±€Ÿ§®€­°®€ÂÀ³€ÞÕ»€€vaœŒnäÁˆŸ}M‚«‰ZÙ¤`úµaÔšWÁžw€qd€É¼´»²°¼µµ¾¸»À¼ÁÁ¿ÇÄÃÎÊÉÓÒÏØÚ×Þæàåñéìøïòùó÷{|€€z}‚€y~‚€z~€úþþƒ‚}€Š†{€‘Šz€—x€¯ „€øÖŸ€«‰Z®”q€Í¦u€×©s€ªŠf€Ó¾ªº­¤¬¤Ÿ©¡žª¤¡¬¦¥®¨¨¯ª«±®°¶²¶º¶º¿º¾Ä¿ÁÉÃÄÉÄÅÅÁÃÄÂÆÆÆÉÇÈËÉÉÊËÉÇÎÉÃÍÆ½ÉÀµËÁ´ßÒ¾Š}i€®”q€¿²¥Ç¶¥Çµ£±¥›£š”Ÿ˜“ž—“ž—”Ÿ™–¡›˜£œ™¤ž›¨¢¡«¥¥­¨¨¯©ª°««²­¬²­­±¬¬¯ªª¯««¯«ª®ª©¯ª§¯©¦­§¢ª¤ž©¢œ­¦Ÿµ¬£¿²¥Ÿ˜’Ÿ—‘œ””Œ‡“‹†“‹†–‹—Œ™’Žš“˜‘Œš’Ž›“•‘¤›¥Ÿœ¦ § ž¡™– ™– ˜•ž—“£œ™¢œ˜¡›—¡š•š’™’Œ™‘Œž—’Ÿ˜“Ÿ˜’ˆ‡€†€Ž†Ž†€Ž†€‡ˆ‚‘‰ƒ’Š„“‹…“‹†”Œ‡•ˆ•Ž‰–Ž‰–ŽŠ–Š—Š–Ž‰–Žˆ•‡”‹…“‹„’Šƒ’Šƒ’Šƒ’‰ƒ’‰‚‘‰‚‘ˆˆŒ‚{‹‚{‹‚{‹‚{Œƒ|Œƒ|Œƒ|„}…~Ž…~Ž††€‡€‡€†€‡‡†€‡€‡€†€Ž…~„}„}„|Œƒ|Œ„|„|Œƒ|Œƒ{Œƒ{Œ‚{ŠyŠyŠyŠyŠyŠzŠz‹‚{‹‚{‹‚{‹‚{‹‚{‹‚{‹ƒ|‹ƒ|‹ƒ|‹ƒ|‹ƒ|‹‚{Š‚{Š‚{Š‚{Š‚{Š‚zŠzŠzŠy‰€y‰€yŠyŠyŠyŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠzŠz
